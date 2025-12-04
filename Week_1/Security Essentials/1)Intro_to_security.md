@@ -134,7 +134,7 @@ Security is everyone's responsibility.
 
 ---
 
-## ✔ Summary
+## Summary
 
 - Traditional security is slow, expensive, and risky  
 - DevSecOps integrates security into every DevOps stage  
@@ -144,5 +144,4 @@ Security is everyone's responsibility.
 
 ---
 
-## 📁 Suggested GitHub Structure
 
